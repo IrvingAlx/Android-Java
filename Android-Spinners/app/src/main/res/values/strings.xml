@@ -1,0 +1,10 @@
+<resources>
+    <string-array name="family">
+        <item>Irving</item>
+        <item>Ingrid</item>
+        <item>Donaldo</item>
+        <item>Maira</item>
+        <item>Francisco</item>
+    </string-array>
+    <string name="app_name">spinners</string>
+</resources>
